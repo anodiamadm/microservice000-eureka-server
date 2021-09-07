@@ -1,2 +1,2 @@
 # microservice000-eureka-server
-Eureka Server for Anodiam
+Eureka Server for Anodiam microservices
